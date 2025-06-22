@@ -44,7 +44,3 @@ streamlit run app.py
 * Streamlit
 * Pandas
 * Matplotlib
-
----
-
-This tool helps students and financial planners understand how different loan structures affect long-term repayment costs and schedules.
