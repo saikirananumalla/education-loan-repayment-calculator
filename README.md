@@ -38,14 +38,6 @@ streamlit run app.py
 * Charts for balance and breakdown
 * Downloadable payment schedule CSV
 
-## Hosting Instructions (Streamlit Cloud)
-
-1. Push all files (`app.py`, `requirements.txt`, `README.md`) to a GitHub repository.
-2. Go to [https://streamlit.io/cloud](https://streamlit.io/cloud) and log in.
-3. Click "New app" and select your repository.
-4. Set the file path to `app.py` and click Deploy.
-5. Share the deployed app link with others.
-
 ## Requirements
 
 * Python 3.8+
